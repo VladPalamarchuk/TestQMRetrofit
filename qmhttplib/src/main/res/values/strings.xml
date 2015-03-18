@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QMHttpLib</string>
+    <string name="qm_check_network_connection">Проверьте интернет соединение...</string>
+    <string name="qm_invalid_json">Invalid json</string>
+    <string name="qm_parse_error">Parse error</string>
+    <string name="qm_error">qm error</string>
+</resources>
